@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I'm currently studying in UVCE <br>🎓currently pursuing Btech in CSE<br>🌱 I'm currently learning Web Dev<br>💬 Ask me about coding<br>
+# 💫 About Me
+🎓 CSE student at UVCE, focused on building real-world web applications—not just tutorials.<br>
+💻 I work with **React, Vite, and modern JavaScript** to create fast, responsive, and clean UI systems.<br>
+🧠 Strengthening problem-solving through **Data Structures & Algorithms in C/C++** to write efficient, scalable code.<br>
+🚀 Exploring **full-stack architecture, performance optimization**, and building products that solve actual problems.<br>
+⚡ I prefer **shipping projects over collecting tech stacks**.<br>
+💬 Open to collaborations, hackathons, and discussions around **system design, frontend architecture, and DSA**.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/goutham_kattemane_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goutham-m-ba2224385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouthamkulall615@gmail.com) 
 # 💻 Tech Stack:
