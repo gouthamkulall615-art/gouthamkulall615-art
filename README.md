@@ -6,6 +6,12 @@
 ⚡ I prefer **shipping projects over collecting tech stacks**.<br>
 💬 Open to collaborations, hackathons, and discussions around **system design, frontend architecture, and DSA**.<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gouthamkulall615-art/gouthamkulall615-art/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gouthamkulall615-art/gouthamkulall615-art/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gouthamkulall615-art/gouthamkulall615-art/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/goutham_kattemane_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-m-ba2224385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouthamkulall615@gmail.com)
 
@@ -38,9 +44,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=gouthamkulall615-art&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gouthamkulall615-art&theme=radical&no-frame=false&no-bg=true&margin-w=4)
