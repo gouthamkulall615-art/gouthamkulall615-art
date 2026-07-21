@@ -95,20 +95,6 @@
 </p>
 
 ---
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gouthamkulall615-art&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouthamkulall615-art&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
----
 
 ## 📌 Current Focus
 
