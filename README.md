@@ -90,9 +90,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gouthamkulall615-art&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gouthamkulall615-art&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
 
