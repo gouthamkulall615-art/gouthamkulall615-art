@@ -114,5 +114,10 @@
 - Open Source Contributions
 
 ---
+## 📈 Contribution Graph
+
+[![Goutham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gouthamkulall615-art&theme=github-compact)](https://github.com/gouthamkulall615-art)
+
+---
 
 <h3 align="center">Thanks for visiting! </h3>
