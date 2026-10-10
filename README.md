@@ -95,15 +95,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=gouthamkulall615-art&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkulall615-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
- ---
 
 ## 📌 Current Focus
 
