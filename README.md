@@ -119,10 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gouthamkulall615-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Contributions and Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouthamkulall615-art&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
